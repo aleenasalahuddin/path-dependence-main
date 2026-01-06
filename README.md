@@ -1,4 +1,5 @@
 # PathNotTaken
+<img width="1908" height="838" alt="Screenshot Capture - 2026-01-06 - 23-10-21" src="https://github.com/user-attachments/assets/7ed19032-2b21-4dbf-8478-02c5b8ba8960" />
 
 **PathNotTaken** is a counterfactual simulation web application that explores plausible alternative timelines for past decisions.
 
