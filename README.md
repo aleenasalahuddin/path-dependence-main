@@ -1,6 +1,6 @@
 # PathNotTaken
-path-dependence-main-x82k.vercel.app
-** a counterfactual simulation web application that explores plausible alternative timelines for past decisions.
+
+**PathNotTaken** is a counterfactual simulation web application that explores plausible alternative timelines for past decisions.
 
 Instead of evaluating whether a decision was right or wrong, the system models what *could have plausibly happened* if different paths had been taken, surfacing hidden tradeoffs, opportunity costs, and irreversibility signals.
 
